@@ -1,4 +1,4 @@
-# 🍬 My Website
+# 🍬 My Personal Website
 
 Showcases personal info, social links, and interactive themes.
 
